@@ -1,0 +1,1 @@
+Latihan-CI/mlruns/** filter=lfs diff=lfs merge=lfs -text
