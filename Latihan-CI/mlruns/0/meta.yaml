@@ -1,6 +1,3 @@
-artifact_location: file:///D:/Leon/Ubaya/5.%20Semester%205/0.%20Asah/1.%20Kelas/5.%20Membangun%20Sistem%20Machine%20Learning/3.%20Latihan/1.2.%20Latihan%20Membuat%20Version%20Control%20Menggunakan%20MLflow/Latihan-CI/mlruns/0
-creation_time: 1763803556350
-experiment_id: '0'
-last_update_time: 1763803556350
-lifecycle_stage: active
-name: Default
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee77e423d6254dcd6ef3ef5f8c5bb1754e30842d2af9ed5d7d1b0c0fdb5392c0
+size 344
