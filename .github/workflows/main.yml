@@ -8,6 +8,9 @@ on:
     branches:
       - main
  
+permissions:
+  contents: write
+  
 env:
   CSV_URL: "Latihan-CI/MLproject/train_pca.csv"
  
