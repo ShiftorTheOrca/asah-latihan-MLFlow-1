@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Leon/Ubaya/5.%20Semester%205/0.%20Asah/1.%20Kelas/5.%20Membangun%20Sistem%20Machine%20Learning/3.%20Latihan/1.2.%20Latihan%20Membuat%20Version%20Control%20Menggunakan%20MLflow/Latihan-CI/mlruns/0/3f832f1689de4d2e864139cf3dc6a5a8/artifacts
+end_time: 1763803556492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f832f1689de4d2e864139cf3dc6a5a8
+run_name: angry-mole-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763803556352
+status: 3
+tags: []
+user_id: leona
